@@ -21,3 +21,8 @@ Essentials
 * [See the docs](http://mybatis.github.io/mybatis-3)
 * [Download Latest](https://github.com/mybatis/mybatis-3/releases)
 * [Download Snapshot](https://oss.sonatype.org/content/repositories/snapshots/org/mybatis/mybatis/)
+
+我的源码阅读轨迹
+----------
+
+- [00. 测试环境的搭建](./docs/00. 环境搭建.md)
