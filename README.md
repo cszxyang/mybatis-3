@@ -25,4 +25,4 @@ Essentials
 我的源码阅读轨迹
 ----------
 
-- [00. 测试环境的搭建](./docs/00. 环境搭建.md)
+- [00. 测试环境的搭建](https://github.com/cszxyang/mybatis-3/blob/master/docs/00.%20%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA.md)
