@@ -22,7 +22,13 @@ Essentials
 * [Download Latest](https://github.com/mybatis/mybatis-3/releases)
 * [Download Snapshot](https://oss.sonatype.org/content/repositories/snapshots/org/mybatis/mybatis/)
 
-我的源码阅读轨迹
+我的源码研读轨迹
 ----------
 
-- [00. 测试环境的搭建](https://github.com/cszxyang/mybatis-3/blob/master/docs/00.%20%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA.md)
+- [00. 测试环境的搭建](https://github.com/cszxyang/mybatis-3/blob/master/docs/00. 环境搭建.md)
+- [01. MyBatis 体系结构](https://github.com/cszxyang/mybatis-3/blob/master/docs/01. MyBatis 体系结构.md)
+- [02. SqlSession 的管理](https://github.com/cszxyang/mybatis-3/blob/master/docs/02. SqlSession 的管理.md)
+- [03. 执行器](https://github.com/cszxyang/mybatis-3/blob/master/docs/03. 执行器.md)
+- [04. 缓存特性与一级缓存](https://github.com/cszxyang/mybatis-3/blob/master/docs/04. 缓存特性与一级缓存.md)
+- [05. 二级缓存](https://github.com/cszxyang/mybatis-3/blob/master/docs/05. 二级缓存.md)
+

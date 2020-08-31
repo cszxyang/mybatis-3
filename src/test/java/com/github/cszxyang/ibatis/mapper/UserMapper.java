@@ -17,6 +17,7 @@ package com.github.cszxyang.ibatis.mapper;
 
 
 import com.github.cszxyang.ibatis.model.User;
+import org.apache.ibatis.annotations.Param;
 import org.apache.ibatis.annotations.Update;
 
 /**
@@ -32,4 +33,8 @@ public interface UserMapper {
 
     @Update("update user set name = #{name} where id = #{id}")
     int updateById(Integer id, String name);
+
+    int updateByIdXml(@Param("id") Integer id, @Param("name") String name);
+
+    int addUser(@Param("name") String name, @Param("age") Integer age);
 }

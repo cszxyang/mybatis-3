@@ -5,6 +5,14 @@
 
 <mapper namespace="com.github.cszxyang.ibatis.mapper.UserMapper">
   <select id="selectUser" resultType="com.github.cszxyang.ibatis.model.User">
-       select * from user where id = #{id}
+    select * from user where id = #{id}
   </select>
+
+  <insert id="addUser">
+    insert into user values (null, #{name}, #{age})
+  </insert>
+
+  <update id="updateByIdXml">
+    update user set name = #{name} where id = #{id}
+  </update>
 </mapper>
