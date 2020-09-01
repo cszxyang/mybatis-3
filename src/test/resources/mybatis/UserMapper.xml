@@ -16,3 +16,4 @@
     update user set name = #{name} where id = #{id}
   </update>
 </mapper>
+
