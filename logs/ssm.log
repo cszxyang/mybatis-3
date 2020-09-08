@@ -1,0 +1,42 @@
+2020-09-01 08:32:59,623-[TS] DEBUG main org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2020-09-01 08:32:59,647-[TS] DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+2020-09-01 08:32:59,648-[TS] DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+2020-09-01 08:32:59,648-[TS] DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+2020-09-01 08:32:59,648-[TS] DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+2020-09-01 08:32:59,983-[TS] DEBUG main com.github.cszxyang.ibatis.mapper.UserMapper.selectUser - ==>  Preparing: select * from user where id = ?
+2020-09-01 08:33:00,017-[TS] DEBUG main com.github.cszxyang.ibatis.mapper.UserMapper.selectUser - ==> Parameters: 1(Integer)
+2020-09-01 08:33:00,036-[TS] DEBUG main com.github.cszxyang.ibatis.mapper.UserMapper.selectUser - <==      Total: 1
+2020-09-01 08:34:43,724-[TS] DEBUG main org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2020-09-01 08:34:43,748-[TS] DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+2020-09-01 08:34:43,748-[TS] DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+2020-09-01 08:34:43,748-[TS] DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+2020-09-01 08:34:43,748-[TS] DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+2020-09-01 08:34:44,074-[TS] DEBUG main com.github.cszxyang.ibatis.mapper.UserMapper.selectUser - ==>  Preparing: select * from user where id = ?
+2020-09-01 08:34:44,096-[TS] DEBUG main com.github.cszxyang.ibatis.mapper.UserMapper.selectUser - ==> Parameters: 1(Integer)
+2020-09-01 08:34:44,110-[TS] DEBUG main com.github.cszxyang.ibatis.mapper.UserMapper.selectUser - <==      Total: 1
+2020-09-01 08:38:56,082-[TS] DEBUG main org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2020-09-01 08:38:56,107-[TS] DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+2020-09-01 08:38:56,108-[TS] DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+2020-09-01 08:38:56,108-[TS] DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+2020-09-01 08:38:56,108-[TS] DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+2020-09-01 08:38:56,475-[TS] DEBUG main com.github.cszxyang.ibatis.mapper.UserMapper.selectUser - ==>  Preparing: select * from user where id = ?
+2020-09-01 08:38:56,503-[TS] DEBUG main com.github.cszxyang.ibatis.mapper.UserMapper.selectUser - ==> Parameters: 1(Integer)
+2020-09-01 08:38:56,524-[TS] DEBUG main com.github.cszxyang.ibatis.mapper.UserMapper.selectUser - <==      Total: 1
+2020-09-01 08:39:35,946-[TS] DEBUG main org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2020-09-01 08:39:35,971-[TS] DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+2020-09-01 08:39:35,971-[TS] DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+2020-09-01 08:39:35,972-[TS] DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+2020-09-01 08:39:35,972-[TS] DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+2020-09-01 08:39:53,731-[TS] DEBUG main org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2020-09-01 08:39:53,754-[TS] DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+2020-09-01 08:39:53,754-[TS] DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+2020-09-01 08:39:53,754-[TS] DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+2020-09-01 08:39:53,755-[TS] DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+2020-09-01 08:40:24,379-[TS] DEBUG main org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2020-09-01 08:40:24,404-[TS] DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+2020-09-01 08:40:24,404-[TS] DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+2020-09-01 08:40:24,404-[TS] DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+2020-09-01 08:40:24,404-[TS] DEBUG main org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+2020-09-01 08:40:24,748-[TS] DEBUG main com.github.cszxyang.ibatis.mapper.UserMapper.selectUser - ==>  Preparing: select * from user where id = ?
+2020-09-01 08:40:24,773-[TS] DEBUG main com.github.cszxyang.ibatis.mapper.UserMapper.selectUser - ==> Parameters: 1(Integer)
+2020-09-01 08:40:24,789-[TS] DEBUG main com.github.cszxyang.ibatis.mapper.UserMapper.selectUser - <==      Total: 1

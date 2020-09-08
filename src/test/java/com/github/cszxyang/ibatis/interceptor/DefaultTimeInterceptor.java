@@ -19,8 +19,6 @@ public class DefaultTimeInterceptor implements Interceptor {
   private static final Date DEFAULT_TIME = DateUtil.parse("1970-01-01 00:00:00");
   private final Logger logger = LoggerFactory.getLogger(DefaultTimeInterceptor.class);
 
-  private static final Date REPLACE_DATE = DateUtil.parse("2020-01-01 00:00:00");
-
   @Override
   @SuppressWarnings("unchecked")
   public Object intercept(Invocation invocation) throws Throwable {
@@ -69,7 +67,7 @@ public class DefaultTimeInterceptor implements Interceptor {
         Date date = (Date)field.get(domainObj);
         if (isDefaultDate(date)) {
           logger.info("DefaultTimeInterceptor.processDomain transforming data...");
-          field.set(domainObj, REPLACE_DATE);
+          field.set(domainObj, null);
         }
       }
     }

@@ -25,10 +25,10 @@ Essentials
 我的源码研读轨迹
 ----------
 
-- [00. 测试环境的搭建](https://github.com/cszxyang/mybatis-3/blob/master/docs/00. 环境搭建.md)
-- [01. MyBatis 体系结构](https://github.com/cszxyang/mybatis-3/blob/master/docs/01. MyBatis 体系结构.md)
-- [02. SqlSession 的管理](https://github.com/cszxyang/mybatis-3/blob/master/docs/02. SqlSession 的管理.md)
-- [03. 执行器](https://github.com/cszxyang/mybatis-3/blob/master/docs/03. 执行器.md)
-- [04. 缓存特性与一级缓存](https://github.com/cszxyang/mybatis-3/blob/master/docs/04. 缓存特性与一级缓存.md)
-- [05. 二级缓存](https://github.com/cszxyang/mybatis-3/blob/master/docs/05. 二级缓存.md)
+- [00. 测试环境的搭建](https://github.com/cszxyang/mybatis-3/blob/master/docs/00.%20%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA.md)
+- [01. MyBatis 体系结构](https://github.com/cszxyang/mybatis-3/blob/master/docs/01.%20MyBatis%20%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84.md)
+- [02. SqlSession 的管理](https://github.com/cszxyang/mybatis-3/blob/master/docs/02.%20SqlSession%20%E7%9A%84%E7%AE%A1%E7%90%86.md)
+- [03. 执行器](https://github.com/cszxyang/mybatis-3/blob/master/docs/03.%20%E6%89%A7%E8%A1%8C%E5%99%A8.md)
+- [04. 缓存特性与一级缓存](https://github.com/cszxyang/mybatis-3/blob/master/docs/04.%20%E7%BC%93%E5%AD%98%E7%89%B9%E6%80%A7%E4%B8%8E%E4%B8%80%E7%BA%A7%E7%BC%93%E5%AD%98.md)
+- [05. 二级缓存](https://github.com/cszxyang/mybatis-3/blob/master/docs/05.%20%E4%BA%8C%E7%BA%A7%E7%BC%93%E5%AD%98.md)
 
